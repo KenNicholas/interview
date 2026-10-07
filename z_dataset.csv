@@ -1,0 +1,21 @@
+user_id,age,tenure_months,monthly_spend,gender,subscription_type,payment_method,churn
+USR001,34,12,85.50,Male,Basic,Credit Card,0
+USR002,28,3,45.00,Female,Premium,E-Wallet,1
+USR003,45,24,120.00,Male,VIP,Bank Transfer,0
+USR004,22,1,25.00,Female,Basic,E-Wallet,1
+USR005,58,36,210.00,Male,VIP,Credit Card,0
+USR006,29,6,,Female,Basic,E-Wallet,1
+USR007,39,18,95.00,Male,Premium,Bank Transfer,0
+USR008,52,48,310.00,,VIP,Credit Card,0
+USR009,19,2,30.00,Female,Basic,E-Wallet,1
+USR010,41,15,105.00,Male,Premium,Credit Card,0
+USR011,31,8,60.00,Female,Basic,Bank Transfer,1
+USR012,50,30,180.00,Male,VIP,Credit Card,0
+USR013,26,4,40.00,Female,,E-Wallet,1
+USR014,37,20,115.00,Male,Premium,Bank Transfer,0
+USR015,23,2,35.00,Female,Basic,E-Wallet,1
+USR004,22,1,25.00,Female,Basic,E-Wallet,1
+USR016,61,60,400.00,Male,VIP,Credit Card,0
+USR017,33,10,75.00,Female,Premium,Bank Transfer,0
+USR018,48,22,130.00,Male,VIP,Credit Card,0
+USR019,27,5,50.00,Female,Basic,E-Wallet,1

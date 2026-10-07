@@ -1,0 +1,104 @@
+user_id,age,tenure_months,monthly_spend,gender,subscription_type,payment_method,churn
+USR001,56,8,90.5,nan,VIP,Bank Transfer,0
+USR002,46,24,159.23,nan,Basic,E-Wallet,1
+USR003,32,11,104.25,Male,Premium,Bank Transfer,1
+USR004,60,17,99.76,Male,Premium,Bank Transfer,0
+USR005,25,8,30.33,nan,Basic,E-Wallet,0
+USR006,38,35,190.68,Male,VIP,Bank Transfer,0
+USR007,56,35,160.75,nan,Premium,Credit Card,0
+USR008,36,33,34.41,nan,Premium,Credit Card,0
+USR009,40,5,98.02,Female,Premium,Bank Transfer,0
+USR010,28,42,274.31,Male,Basic,Credit Card,1
+USR011,28,39,87.08,Male,Premium,Bank Transfer,0
+USR012,41,41,60.57,Female,VIP,Credit Card,0
+USR013,53,28,157.05,Male,Premium,Credit Card,1
+USR014,57,7,295.98,Male,Premium,Bank Transfer,1
+USR015,41,9,87.78,Female,VIP,Credit Card,1
+USR016,20,8,208.2,nan,Premium,Bank Transfer,0
+USR017,39,12,233.25,Female,Basic,Credit Card,0
+USR018,19,34,86.54,Female,Basic,Credit Card,0
+USR019,41,33,223.9,Male,Basic,E-Wallet,0
+USR020,61,23,122.98,Female,VIP,E-Wallet,0
+USR021,47,24,197.05,nan,Premium,Bank Transfer,0
+USR022,55,37,197.39,Male,Basic,E-Wallet,0
+USR023,19,35,170.02,Female,VIP,Bank Transfer,0
+USR024,38,44,45.28,Female,Premium,E-Wallet,0
+USR025,50,40,253.88,Female,VIP,Credit Card,0
+USR026,29,22,109.82,Female,Basic,Bank Transfer,0
+USR027,39,27,72.23,Female,Basic,Bank Transfer,0
+USR028,61,35,31.42,Male,Basic,Credit Card,0
+USR029,42,1,185.45,Male,VIP,Bank Transfer,0
+USR030,44,35,209.72,Female,VIP,Bank Transfer,0
+USR031,59,37,24.64,Female,Basic,E-Wallet,0
+USR032,45,47,163.39,Female,VIP,Bank Transfer,0
+USR033,33,14,83.42,nan,Basic,Credit Card,0
+USR034,32,3,200.65,Female,Basic,E-Wallet,0
+USR035,64,1,68.82,Female,Premium,E-Wallet,1
+USR036,61,5,213.46,Female,VIP,Credit Card,0
+USR037,20,26,,Female,Basic,Credit Card,0
+USR038,54,14,,Female,Basic,E-Wallet,1
+USR039,24,39,58.51,Female,VIP,Bank Transfer,0
+USR040,38,27,,Female,Premium,E-Wallet,1
+USR041,26,9,51.77,Male,Premium,Credit Card,0
+USR042,56,15,278.91,Male,Basic,E-Wallet,0
+USR043,35,15,265.66,Male,VIP,Credit Card,0
+USR044,21,26,92.22,Female,Premium,E-Wallet,1
+USR045,42,42,204.8,Male,VIP,Bank Transfer,0
+USR046,31,13,248.82,Female,VIP,E-Wallet,1
+USR047,26,32,175.46,Female,Basic,E-Wallet,0
+USR048,43,39,168.3,Male,Premium,Credit Card,1
+USR049,19,32,87.72,Female,Basic,Credit Card,0
+USR050,37,4,46.07,Male,Premium,Credit Card,1
+USR051,45,30,271.22,Male,Premium,E-Wallet,0
+USR052,64,37,272.12,Female,Premium,Bank Transfer,0
+USR053,24,23,197.27,Male,Premium,Credit Card,0
+USR054,61,39,114.93,Male,Premium,Credit Card,0
+USR055,25,45,117.78,Female,VIP,E-Wallet,0
+USR056,64,15,223.27,Female,Basic,Credit Card,0
+USR057,52,43,271.19,Male,VIP,Bank Transfer,0
+USR058,31,29,268.38,Female,Premium,Bank Transfer,0
+USR059,34,36,238.37,Male,Basic,Credit Card,1
+USR060,53,13,199.77,Male,Premium,Credit Card,1
+USR061,57,32,43.56,Female,Basic,E-Wallet,0
+USR062,21,7,65.26,Female,VIP,Bank Transfer,1
+USR063,19,22,271.6,Female,Basic,Bank Transfer,1
+USR064,23,28,189.8,Female,Basic,Credit Card,0
+USR065,59,2,22.58,nan,Basic,E-Wallet,0
+USR066,21,42,48.41,Female,Basic,Bank Transfer,0
+USR067,46,45,205.78,Male,Basic,Bank Transfer,0
+USR068,35,6,21.42,Female,Premium,E-Wallet,0
+USR069,43,28,65.03,Male,Basic,E-Wallet,0
+USR070,61,28,173.65,Male,Basic,Bank Transfer,1
+USR071,51,44,213.73,Male,VIP,Bank Transfer,1
+USR072,27,44,202.55,Male,Basic,E-Wallet,0
+USR073,53,20,82.8,nan,VIP,Bank Transfer,0
+USR074,31,30,219.41,Female,Premium,Credit Card,0
+USR075,48,11,86.43,Female,Basic,Credit Card,0
+USR076,32,28,111.11,Male,VIP,E-Wallet,0
+USR077,25,25,229.02,Male,VIP,E-Wallet,1
+USR078,31,39,201.9,Male,Premium,E-Wallet,0
+USR079,40,33,257.78,Male,Basic,Credit Card,1
+USR080,57,1,204.13,Female,Basic,Bank Transfer,1
+USR081,38,27,179.13,Female,VIP,Credit Card,0
+USR082,33,13,46.23,Female,Basic,Bank Transfer,1
+USR083,62,41,,Male,VIP,Credit Card,0
+USR084,35,3,94.26,nan,Basic,Bank Transfer,0
+USR085,64,39,88.32,Female,VIP,Credit Card,0
+USR086,41,6,292.44,Female,Basic,E-Wallet,1
+USR087,43,8,130.07,Female,Premium,Credit Card,0
+USR088,42,27,269.77,Male,Basic,Bank Transfer,1
+USR089,62,9,196.72,Male,Basic,Credit Card,1
+USR090,58,37,242.55,Male,Premium,Credit Card,0
+USR091,46,33,160.74,Female,Basic,Credit Card,1
+USR092,32,42,181.53,Male,Premium,E-Wallet,0
+USR093,62,44,157.9,Male,Basic,Credit Card,0
+USR094,18,24,74.67,Male,VIP,E-Wallet,0
+USR095,42,15,222.29,Male,VIP,E-Wallet,0
+USR096,24,32,98.62,Female,Basic,Credit Card,1
+USR097,26,32,,Female,Basic,Credit Card,0
+USR098,41,24,200.73,Female,Basic,Credit Card,0
+USR099,18,41,69.59,Male,VIP,Bank Transfer,1
+USR100,61,12,283.33,Female,Basic,Credit Card,0
+USR001,56,8,90.5,nan,VIP,Bank Transfer,0
+USR002,46,24,159.23,nan,Basic,E-Wallet,1
+USR003,32,11,104.25,Male,Premium,Bank Transfer,1
